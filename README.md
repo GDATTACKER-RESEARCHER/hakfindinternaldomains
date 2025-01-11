@@ -4,7 +4,7 @@ Feed it a list of subdomains, it will resolve them and tell you which ones are i
 # Installation
 
 ```
-go install github.com/hakluke/hakfindinternaldomains
+go install github.com/hakluke/hakfindinternaldomains@main
 ```
 
 # Usage
